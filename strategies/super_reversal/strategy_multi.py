@@ -48,7 +48,7 @@ params_coin = {
         "short_ema_window": 20,
         "long_ema_window": 625
     },
-    "SOL/USD": {
+    "SOL/UD": {
         "wallet_exposure": 0.2,
         "st_short_atr_window": 10,
         "st_short_atr_multiplier": 5,

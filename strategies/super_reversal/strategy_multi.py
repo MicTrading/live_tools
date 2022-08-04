@@ -42,7 +42,7 @@ params_coin = {
         "long_ema_window": 400
     },
     "AVAX/USD": {
-        "wallet_exposure": 0.2,
+        "wallet_exposure": 0.1,
         "st_short_atr_window": 15,
         "st_short_atr_multiplier": 6,
         "short_ema_window": 20,
@@ -54,6 +54,13 @@ params_coin = {
         "st_short_atr_multiplier": 5,
         "short_ema_window": 8,
         "long_ema_window": 400
+    },
+    "XRP/USD": {
+        "wallet_exposure": 0.1,
+        "st_short_atr_window": 20,
+        "st_short_atr_multiplier": 5,
+        "short_ema_window": 28,
+        "long_ema_window": 550
     },
 }
 

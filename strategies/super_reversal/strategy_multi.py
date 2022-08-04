@@ -21,18 +21,11 @@ account_to_select = "account1"
 
 params_coin = {
     "BTC/USD": {
-        "wallet_exposure": 0.1,
+        "wallet_exposure": 0.2,
         "st_short_atr_window": 20,
         "st_short_atr_multiplier": 6,
         "short_ema_window": 20,
         "long_ema_window": 490
-    },
-    "ETH/USD": {
-        "wallet_exposure": 0.3,
-        "st_short_atr_window": 20,
-        "st_short_atr_multiplier": 4,
-        "short_ema_window": 10,
-        "long_ema_window": 625
     },
     "LINK/USD": {
         "wallet_exposure": 0.2,
@@ -42,7 +35,7 @@ params_coin = {
         "long_ema_window": 400
     },
     "AVAX/USD": {
-        "wallet_exposure": 0.1,
+        "wallet_exposure": 0.2,
         "st_short_atr_window": 15,
         "st_short_atr_multiplier": 6,
         "short_ema_window": 20,
@@ -56,7 +49,7 @@ params_coin = {
         "long_ema_window": 400
     },
     "XRP/USD": {
-        "wallet_exposure": 0.1,
+        "wallet_exposure": 0.2,
         "st_short_atr_window": 20,
         "st_short_atr_multiplier": 5,
         "short_ema_window": 28,

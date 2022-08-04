@@ -21,14 +21,14 @@ account_to_select = "account1"
 
 params_coin = {
     "BTC/USD": {
-        "wallet_exposure": 0.2,
+        "wallet_exposure": 0.1,
         "st_short_atr_window": 20,
         "st_short_atr_multiplier": 6,
         "short_ema_window": 20,
         "long_ema_window": 490
     },
     "ETH/USD": {
-        "wallet_exposure": 0.2,
+        "wallet_exposure": 0.3,
         "st_short_atr_window": 20,
         "st_short_atr_multiplier": 4,
         "short_ema_window": 10,

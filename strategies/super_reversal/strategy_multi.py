@@ -34,7 +34,7 @@ params_coin = {
         "short_ema_window": 10,
         "long_ema_window": 625
     },
-    "LINK/USDT": {
+    "LINK/USD": {
         "wallet_exposure": 0.2,
         "st_short_atr_window": 10,
         "st_short_atr_multiplier": 5,
